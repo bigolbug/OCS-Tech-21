@@ -1,0 +1,3 @@
+-- This script will be for easy editing of mod settings. Each setting in this file must be under the main global table variable of aoe
+-- For instance if I want a variable "foo" to be accessible from all scripts I would need to define it as such...
+aoe.foo = "bar"
