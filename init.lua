@@ -1,8 +1,8 @@
 aoe = {}
 
 local mod_path = minetest.get_modpath("aoe")
-dofile(mod_path.."\\config.lua")
-dofile(mod_path.."\\functions.lua")
+dofile(mod_path.."/config.lua")
+dofile(mod_path.."/functions.lua")
 
 --Move to it's own 
 function aoe.get_formspec(name)
